@@ -48,7 +48,7 @@ a {
     width: 140px;
     height: 71px;
     top: 0px;
-    left: 570px;
+    left: 523px;
     z-index: 1;
 }
 
@@ -205,17 +205,6 @@ a {
     padding: 35px 0 30px;
     text-transform: uppercase;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 .fotter-inner {
     display: flex;
